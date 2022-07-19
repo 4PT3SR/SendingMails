@@ -7,4 +7,4 @@ This Api sends a welcome email when it receives a POST request including the use
 below is an image containing a test message when the request is performed
 
 
-<img src='emailscreenshot'>
+<img src='./emailscreenshot.png' alt='Email Screenshot'>
